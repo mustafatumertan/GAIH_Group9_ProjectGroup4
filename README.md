@@ -1,2 +1,3 @@
-# GAIH_Group9_ProjectGroup4
-The Urban Sounds Classification with a CNN
+# Urban-Sounds-Classification
+This is the final project of Global AI Hub Deep Learning Bootcamp.
+A convolutional neural network is trained to classify urban sounds
